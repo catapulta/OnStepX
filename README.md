@@ -1,3 +1,9 @@
+THIS REPO
+=========
+
+Migrates from arduino to platformio.
+
+
 OnStepX Telescope Controller
 ===========================
 
